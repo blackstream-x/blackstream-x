@@ -1,4 +1,4 @@
-👋 Hi, I’m @blackstream-x and I’m also on :mammoth: <a rel="me" href="https://mastodontech.de/@blackstream">Mastodon</a>
+👋 Hi, I’m @blackstream-x and my links page is at <https://blackstream-x.codeberg.page/>
 
 <!---
 blackstream-x/blackstream-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
